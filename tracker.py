@@ -34,8 +34,8 @@ def get_offers():
         advertiser = item.get("advertiser", {})
         offers.append({
             "price": float(item["price"]),
-            "min_sdg": item.get("minTransAmount"),
-            "max_sdg": item.get("maxTransAmount"),
+            "min_transaction_raw": item.get("minTransAmount"),
+            "max_transaction_raw": item.get("maxTransAmount"),
             "raw_ad": item,
             "available_usdt": item.get("tradableAmount"),
             "advertiser": advertiser.get("nickName"),
