@@ -36,6 +36,7 @@ def get_offers():
             "price": float(item["price"]),
             "min_sdg": item.get("minTransAmount"),
             "max_sdg": item.get("maxTransAmount"),
+            "raw_ad": item,
             "available_usdt": item.get("tradableAmount"),
             "advertiser": advertiser.get("nickName"),
             "completion_rate": advertiser.get("monthFinishRate"),
