@@ -1,0 +1,189 @@
+{
+  "source": "Binance P2P",
+  "pair": "USDT/SDG",
+  "side": "BUY",
+  "payment_method": "BankofKhartoum",
+  "updated_at_utc": "2026-10-24T10:50:53.638776+00:00",
+  "offers": [
+    {
+      "price": 10173.0,
+      "min_sdg": 9.82,
+      "max_sdg": 245.74,
+      "available_usdt": 246.0,
+      "advertiser": "OMERABSKEEN",
+      "completion_rate": 0.945,
+      "monthly_orders": 1054
+    },
+    {
+      "price": 10174.0,
+      "min_sdg": 98.28,
+      "max_sdg": 245.72,
+      "available_usdt": 1754.28,
+      "advertiser": "MUAZ-AlGMIL",
+      "completion_rate": 0.953,
+      "monthly_orders": 160
+    },
+    {
+      "price": 10175.41,
+      "min_sdg": 98.27,
+      "max_sdg": 245.69,
+      "available_usdt": 250.0,
+      "advertiser": "abdallatfr",
+      "completion_rate": 0.95,
+      "monthly_orders": 456
+    },
+    {
+      "price": 10176.0,
+      "min_sdg": 196.54,
+      "max_sdg": 245.67,
+      "available_usdt": 2114.61,
+      "advertiser": "NOT_7AM00Di",
+      "completion_rate": 0.969,
+      "monthly_orders": 759
+    },
+    {
+      "price": 10179.0,
+      "min_sdg": 78.59,
+      "max_sdg": 2947.24,
+      "available_usdt": 4753.09,
+      "advertiser": "AHMED405",
+      "completion_rate": 0.969,
+      "monthly_orders": 500
+    },
+    {
+      "price": 10180.0,
+      "min_sdg": 98.23,
+      "max_sdg": 245.57,
+      "available_usdt": 532.8,
+      "advertiser": "Javan_sd",
+      "completion_rate": 0.901,
+      "monthly_orders": 480
+    },
+    {
+      "price": 10180.0,
+      "min_sdg": 19.64,
+      "max_sdg": 245.57,
+      "available_usdt": 276.93,
+      "advertiser": "MUR-CRYPTO",
+      "completion_rate": 0.99,
+      "monthly_orders": 462
+    },
+    {
+      "price": 10180.0,
+      "min_sdg": 49.11,
+      "max_sdg": 245.57,
+      "available_usdt": 216.41,
+      "advertiser": "Monzir wi-fi",
+      "completion_rate": 0.875,
+      "monthly_orders": 125
+    },
+    {
+      "price": 10180.0,
+      "min_sdg": 29.46,
+      "max_sdg": 245.57,
+      "available_usdt": 250.0,
+      "advertiser": "Nadir Satty ",
+      "completion_rate": 0.973,
+      "monthly_orders": 898
+    },
+    {
+      "price": 10181.0,
+      "min_sdg": 245.45,
+      "max_sdg": 245.55,
+      "available_usdt": 489.95,
+      "advertiser": "Hasko_Crypto",
+      "completion_rate": 0.987,
+      "monthly_orders": 293
+    },
+    {
+      "price": 10181.32,
+      "min_sdg": 24.55,
+      "max_sdg": 44.19,
+      "available_usdt": 105.81,
+      "advertiser": "NisbiaStore",
+      "completion_rate": 0.957,
+      "monthly_orders": 44
+    },
+    {
+      "price": 10183.0,
+      "min_sdg": 4.91,
+      "max_sdg": 245.5,
+      "available_usdt": 78.54,
+      "advertiser": "Major_tarig",
+      "completion_rate": 0.998,
+      "monthly_orders": 951
+    },
+    {
+      "price": 10184.79,
+      "min_sdg": 4.9,
+      "max_sdg": 245.46,
+      "available_usdt": 830.32,
+      "advertiser": "Wadnile",
+      "completion_rate": 0.998,
+      "monthly_orders": 459
+    },
+    {
+      "price": 10184.8,
+      "min_sdg": 29.45,
+      "max_sdg": 245.46,
+      "available_usdt": 83.48,
+      "advertiser": "Cryptinhoo",
+      "completion_rate": 0.982,
+      "monthly_orders": 1214
+    },
+    {
+      "price": 10185.0,
+      "min_sdg": 49.09,
+      "max_sdg": 245.45,
+      "available_usdt": 392.38,
+      "advertiser": "AhmedMutaz",
+      "completion_rate": 0.948,
+      "monthly_orders": 271
+    },
+    {
+      "price": 10187.0,
+      "min_sdg": 4.9,
+      "max_sdg": 245.41,
+      "available_usdt": 257.59,
+      "advertiser": "MAli_usdt",
+      "completion_rate": 0.964,
+      "monthly_orders": 105
+    },
+    {
+      "price": 10187.0,
+      "min_sdg": 4.9,
+      "max_sdg": 98.16,
+      "available_usdt": 74.5,
+      "advertiser": "BASTA_STORE",
+      "completion_rate": 0.891,
+      "monthly_orders": 49
+    },
+    {
+      "price": 10187.97,
+      "min_sdg": 107.97,
+      "max_sdg": 107.97,
+      "available_usdt": 108.44,
+      "advertiser": "Ahmed-47",
+      "completion_rate": 0.829,
+      "monthly_orders": 126
+    },
+    {
+      "price": 10189.0,
+      "min_sdg": 14.72,
+      "max_sdg": 49.07,
+      "available_usdt": 39.97,
+      "advertiser": "Dody_Store",
+      "completion_rate": 0.996,
+      "monthly_orders": 467
+    },
+    {
+      "price": 10189.9,
+      "min_sdg": 9.81,
+      "max_sdg": 245.34,
+      "available_usdt": 232.27,
+      "advertiser": "Ayman_u",
+      "completion_rate": 0.952,
+      "monthly_orders": 489
+    }
+  ]
+}
