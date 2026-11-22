@@ -3,160 +3,58 @@
   "pair": "USDT/SDG",
   "side": "BUY",
   "payment_method": "BankofKhartoum",
-  "updated_at_utc": "2026-11-22T06:47:12.654661+00:00",
+  "updated_at_utc": "2026-11-22T12:35:11.231470+00:00",
   "offers": [
     {
-      "price": 12147.0,
-      "min_transaction_raw": 8.23,
-      "max_transaction_raw": 82.32,
+      "price": 12127.0,
+      "min_transaction_raw": 16.49,
+      "max_transaction_raw": 206.15,
       "raw_ad": {
-        "adNo": "12950258529777569792",
-        "price": 12147.0,
+        "adNo": "12957790942271574016",
+        "price": 12127.0,
         "fiat": "SDG",
         "fiatSymbol": "ج.س.",
         "fiatScale": 2,
         "asset": "USDT",
         "assetScale": 2,
         "priceScale": 2,
-        "minTransAmount": 8.23,
-        "maxTransAmount": 82.32,
-        "tradableAmount": 75.28,
+        "minTransAmount": 16.49,
+        "maxTransAmount": 206.15,
+        "tradableAmount": 297.18,
         "payTimeLimit": 15,
         "tradeMethods": [
           "BankofKhartoum"
         ],
         "advertiser": {
-          "nickName": "56S",
+          "nickName": "7Nano ",
           "userType": "user",
-          "monthOrderCount": 738,
-          "monthFinishRate": 0.998,
-          "positiveRate": 1.0,
+          "monthOrderCount": 263,
+          "monthFinishRate": 0.982,
+          "positiveRate": 0.99390243,
           "merchantGroupMember": false
         }
       },
-      "available_usdt": 75.28,
-      "advertiser": "56S",
-      "completion_rate": 0.998,
-      "monthly_orders": 738
+      "available_usdt": 297.18,
+      "advertiser": "7Nano ",
+      "completion_rate": 0.982,
+      "monthly_orders": 263
     },
     {
-      "price": 12150.0,
-      "min_transaction_raw": 41.15,
-      "max_transaction_raw": 205.76,
-      "raw_ad": {
-        "adNo": "12957709218371280896",
-        "price": 12150.0,
-        "fiat": "SDG",
-        "fiatSymbol": "ج.س.",
-        "fiatScale": 2,
-        "asset": "USDT",
-        "assetScale": 2,
-        "priceScale": 2,
-        "minTransAmount": 41.15,
-        "maxTransAmount": 205.76,
-        "tradableAmount": 410.12,
-        "payTimeLimit": 15,
-        "tradeMethods": [
-          "BankofKhartoum"
-        ],
-        "advertiser": {
-          "nickName": "M_Jox",
-          "userType": "user",
-          "monthOrderCount": 330,
-          "monthFinishRate": 0.997,
-          "positiveRate": 0.99740932,
-          "merchantGroupMember": false
-        }
-      },
-      "available_usdt": 410.12,
-      "advertiser": "M_Jox",
-      "completion_rate": 0.997,
-      "monthly_orders": 330
-    },
-    {
-      "price": 12155.99,
-      "min_transaction_raw": 205.65,
-      "max_transaction_raw": 205.65,
-      "raw_ad": {
-        "adNo": "12957702250225733632",
-        "price": 12155.99,
-        "fiat": "SDG",
-        "fiatSymbol": "ج.س.",
-        "fiatScale": 2,
-        "asset": "USDT",
-        "assetScale": 2,
-        "priceScale": 2,
-        "minTransAmount": 205.65,
-        "maxTransAmount": 205.65,
-        "tradableAmount": 412.68,
-        "payTimeLimit": 15,
-        "tradeMethods": [
-          "BankofKhartoum"
-        ],
-        "advertiser": {
-          "nickName": "Abu_Zaher-",
-          "userType": "user",
-          "monthOrderCount": 142,
-          "monthFinishRate": 0.894,
-          "positiveRate": 1.0,
-          "merchantGroupMember": false
-        }
-      },
-      "available_usdt": 412.68,
-      "advertiser": "Abu_Zaher-",
-      "completion_rate": 0.894,
-      "monthly_orders": 142
-    },
-    {
-      "price": 12158.99,
-      "min_transaction_raw": 24.67,
-      "max_transaction_raw": 102.8,
-      "raw_ad": {
-        "adNo": "13945480977860579328",
-        "price": 12158.99,
-        "fiat": "SDG",
-        "fiatSymbol": "ج.س.",
-        "fiatScale": 2,
-        "asset": "USDT",
-        "assetScale": 2,
-        "priceScale": 2,
-        "minTransAmount": 24.67,
-        "maxTransAmount": 102.8,
-        "tradableAmount": 916.68,
-        "payTimeLimit": 15,
-        "tradeMethods": [
-          "BankofKhartoum"
-        ],
-        "advertiser": {
-          "nickName": "Leader_Keto_Crypto",
-          "userType": "merchant",
-          "monthOrderCount": 1393,
-          "monthFinishRate": 0.998,
-          "positiveRate": 0.99753289,
-          "merchantGroupMember": false
-        }
-      },
-      "available_usdt": 916.68,
-      "advertiser": "Leader_Keto_Crypto",
-      "completion_rate": 0.998,
-      "monthly_orders": 1393
-    },
-    {
-      "price": 12159.26,
-      "min_transaction_raw": 20.56,
-      "max_transaction_raw": 41.12,
+      "price": 12129.19,
+      "min_transaction_raw": 20.61,
+      "max_transaction_raw": 41.22,
       "raw_ad": {
         "adNo": "12954790111423733760",
-        "price": 12159.26,
+        "price": 12129.19,
         "fiat": "SDG",
         "fiatSymbol": "ج.س.",
         "fiatScale": 2,
         "asset": "USDT",
         "assetScale": 2,
         "priceScale": 2,
-        "minTransAmount": 20.56,
-        "maxTransAmount": 41.12,
-        "tradableAmount": 190.0,
+        "minTransAmount": 20.61,
+        "maxTransAmount": 41.22,
+        "tradableAmount": 193.03,
         "payTimeLimit": 15,
         "tradeMethods": [
           "BankofKhartoum"
@@ -164,33 +62,67 @@
         "advertiser": {
           "nickName": "NisbiaStore",
           "userType": "user",
-          "monthOrderCount": 689,
+          "monthOrderCount": 697,
           "monthFinishRate": 0.999,
           "positiveRate": 1.0,
           "merchantGroupMember": false
         }
       },
-      "available_usdt": 190.0,
+      "available_usdt": 193.03,
       "advertiser": "NisbiaStore",
       "completion_rate": 0.999,
-      "monthly_orders": 689
+      "monthly_orders": 697
     },
     {
-      "price": 12164.0,
-      "min_transaction_raw": 8.22,
-      "max_transaction_raw": 41.1,
+      "price": 12130.0,
+      "min_transaction_raw": 82.44,
+      "max_transaction_raw": 93.15,
       "raw_ad": {
-        "adNo": "12952006205316186112",
-        "price": 12164.0,
+        "adNo": "12950638050460925952",
+        "price": 12130.0,
         "fiat": "SDG",
         "fiatSymbol": "ج.س.",
         "fiatScale": 2,
         "asset": "USDT",
         "assetScale": 2,
         "priceScale": 2,
-        "minTransAmount": 8.22,
-        "maxTransAmount": 41.1,
-        "tradableAmount": 119.55,
+        "minTransAmount": 82.44,
+        "maxTransAmount": 93.15,
+        "tradableAmount": 100.0,
+        "payTimeLimit": 15,
+        "tradeMethods": [
+          "BankofKhartoum"
+        ],
+        "advertiser": {
+          "nickName": "Alsadig-Babiker",
+          "userType": "user",
+          "monthOrderCount": 117,
+          "monthFinishRate": 0.992,
+          "positiveRate": 1.0,
+          "merchantGroupMember": false
+        }
+      },
+      "available_usdt": 100.0,
+      "advertiser": "Alsadig-Babiker",
+      "completion_rate": 0.992,
+      "monthly_orders": 117
+    },
+    {
+      "price": 12130.0,
+      "min_transaction_raw": 8.24,
+      "max_transaction_raw": 41.22,
+      "raw_ad": {
+        "adNo": "12952006205316186112",
+        "price": 12130.0,
+        "fiat": "SDG",
+        "fiatSymbol": "ج.س.",
+        "fiatScale": 2,
+        "asset": "USDT",
+        "assetScale": 2,
+        "priceScale": 2,
+        "minTransAmount": 8.24,
+        "maxTransAmount": 41.22,
+        "tradableAmount": 49.44,
         "payTimeLimit": 15,
         "tradeMethods": [
           "BankofKhartoum",
@@ -202,266 +134,162 @@
         "advertiser": {
           "nickName": "Crypto_Store11",
           "userType": "user",
-          "monthOrderCount": 875,
+          "monthOrderCount": 885,
           "monthFinishRate": 0.961,
           "positiveRate": 0.99876847,
           "merchantGroupMember": false
         }
       },
-      "available_usdt": 119.55,
+      "available_usdt": 49.44,
       "advertiser": "Crypto_Store11",
       "completion_rate": 0.961,
-      "monthly_orders": 875
+      "monthly_orders": 885
     },
     {
-      "price": 12165.0,
-      "min_transaction_raw": 200.49,
-      "max_transaction_raw": 205.5,
+      "price": 12134.0,
+      "min_transaction_raw": 8.24,
+      "max_transaction_raw": 206.03,
       "raw_ad": {
-        "adNo": "12956225598255190016",
-        "price": 12165.0,
+        "adNo": "12955990118525243392",
+        "price": 12134.0,
         "fiat": "SDG",
         "fiatSymbol": "ج.س.",
         "fiatScale": 2,
         "asset": "USDT",
         "assetScale": 2,
         "priceScale": 2,
-        "minTransAmount": 200.49,
-        "maxTransAmount": 205.5,
-        "tradableAmount": 200.51,
-        "payTimeLimit": 15,
-        "tradeMethods": [
-          "BankofKhartoum"
-        ],
-        "advertiser": {
-          "nickName": "Hasko_Crypto",
-          "userType": "user",
-          "monthOrderCount": 231,
-          "monthFinishRate": 0.988,
-          "positiveRate": 0.98347107,
-          "merchantGroupMember": false
-        }
-      },
-      "available_usdt": 200.51,
-      "advertiser": "Hasko_Crypto",
-      "completion_rate": 0.988,
-      "monthly_orders": 231
-    },
-    {
-      "price": 12166.46,
-      "min_transaction_raw": 0.82,
-      "max_transaction_raw": 118.32,
-      "raw_ad": {
-        "adNo": "12957709181057421312",
-        "price": 12166.46,
-        "fiat": "SDG",
-        "fiatSymbol": "ج.س.",
-        "fiatScale": 2,
-        "asset": "USDT",
-        "assetScale": 2,
-        "priceScale": 2,
-        "minTransAmount": 0.82,
-        "maxTransAmount": 118.32,
-        "tradableAmount": 118.6,
-        "payTimeLimit": 15,
-        "tradeMethods": [
-          "BankofKhartoum"
-        ],
-        "advertiser": {
-          "nickName": "Rahma",
-          "userType": "user",
-          "monthOrderCount": 244,
-          "monthFinishRate": 0.898,
-          "positiveRate": 1.0,
-          "merchantGroupMember": false
-        }
-      },
-      "available_usdt": 118.6,
-      "advertiser": "Rahma",
-      "completion_rate": 0.898,
-      "monthly_orders": 244
-    },
-    {
-      "price": 12167.0,
-      "min_transaction_raw": 4.1,
-      "max_transaction_raw": 24.65,
-      "raw_ad": {
-        "adNo": "12956677409123598336",
-        "price": 12167.0,
-        "fiat": "SDG",
-        "fiatSymbol": "ج.س.",
-        "fiatScale": 2,
-        "asset": "USDT",
-        "assetScale": 2,
-        "priceScale": 2,
-        "minTransAmount": 4.1,
-        "maxTransAmount": 24.65,
-        "tradableAmount": 122.15,
-        "payTimeLimit": 15,
-        "tradeMethods": [
-          "BankofKhartoum"
-        ],
-        "advertiser": {
-          "nickName": "Wd_Elfadil-crypto",
-          "userType": "user",
-          "monthOrderCount": 672,
-          "monthFinishRate": 0.969,
-          "positiveRate": 0.99493243,
-          "merchantGroupMember": false
-        }
-      },
-      "available_usdt": 122.15,
-      "advertiser": "Wd_Elfadil-crypto",
-      "completion_rate": 0.969,
-      "monthly_orders": 672
-    },
-    {
-      "price": 12169.0,
-      "min_transaction_raw": 82.17,
-      "max_transaction_raw": 1232.64,
-      "raw_ad": {
-        "adNo": "13916481363349213184",
-        "price": 12169.0,
-        "fiat": "SDG",
-        "fiatSymbol": "ج.س.",
-        "fiatScale": 2,
-        "asset": "USDT",
-        "assetScale": 2,
-        "priceScale": 2,
-        "minTransAmount": 82.17,
-        "maxTransAmount": 1232.64,
-        "tradableAmount": 766.72,
-        "payTimeLimit": 15,
-        "tradeMethods": [
-          "BankofKhartoum"
-        ],
-        "advertiser": {
-          "nickName": "Mohammed-Alfatih",
-          "userType": "merchant",
-          "monthOrderCount": 366,
-          "monthFinishRate": 0.995,
-          "positiveRate": 1.0,
-          "merchantGroupMember": false
-        }
-      },
-      "available_usdt": 766.72,
-      "advertiser": "Mohammed-Alfatih",
-      "completion_rate": 0.995,
-      "monthly_orders": 366
-    },
-    {
-      "price": 12169.0,
-      "min_transaction_raw": 4.1,
-      "max_transaction_raw": 205.44,
-      "raw_ad": {
-        "adNo": "12956609542909464576",
-        "price": 12169.0,
-        "fiat": "SDG",
-        "fiatSymbol": "ج.س.",
-        "fiatScale": 2,
-        "asset": "USDT",
-        "assetScale": 2,
-        "priceScale": 2,
-        "minTransAmount": 4.1,
-        "maxTransAmount": 205.44,
-        "tradableAmount": 445.14,
-        "payTimeLimit": 15,
-        "tradeMethods": [
-          "BankofKhartoum"
-        ],
-        "advertiser": {
-          "nickName": "Eng-Tito",
-          "userType": "user",
-          "monthOrderCount": 309,
-          "monthFinishRate": 0.928,
-          "positiveRate": 0.99305555,
-          "merchantGroupMember": false
-        }
-      },
-      "available_usdt": 445.14,
-      "advertiser": "Eng-Tito",
-      "completion_rate": 0.928,
-      "monthly_orders": 309
-    },
-    {
-      "price": 12170.0,
-      "min_transaction_raw": 123.25,
-      "max_transaction_raw": 205.42,
-      "raw_ad": {
-        "adNo": "12956305667092791296",
-        "price": 12170.0,
-        "fiat": "SDG",
-        "fiatSymbol": "ج.س.",
-        "fiatScale": 2,
-        "asset": "USDT",
-        "assetScale": 2,
-        "priceScale": 2,
-        "minTransAmount": 123.25,
-        "maxTransAmount": 205.42,
-        "tradableAmount": 9259.13,
+        "minTransAmount": 8.24,
+        "maxTransAmount": 206.03,
+        "tradableAmount": 193.11,
         "payTimeLimit": 15,
         "tradeMethods": [
           "BankofKhartoum",
-          "SudaneseIslamicBank",
-          "mycashi",
-          "SudaneseIslamicBank",
-          "FarmersCommercial"
+          "OmdurmanNationalBank",
+          "mycashi"
         ],
         "advertiser": {
-          "nickName": "Akram56usdt",
+          "nickName": "Major_tarig",
           "userType": "user",
-          "monthOrderCount": 343,
-          "monthFinishRate": 0.995,
+          "monthOrderCount": 1337,
+          "monthFinishRate": 0.997,
           "positiveRate": 1.0,
           "merchantGroupMember": false
         }
       },
-      "available_usdt": 9259.13,
-      "advertiser": "Akram56usdt",
-      "completion_rate": 0.995,
-      "monthly_orders": 343
+      "available_usdt": 193.11,
+      "advertiser": "Major_tarig",
+      "completion_rate": 0.997,
+      "monthly_orders": 1337
     },
     {
-      "price": 12170.0,
-      "min_transaction_raw": 82.16,
-      "max_transaction_raw": 205.42,
+      "price": 12134.98,
+      "min_transaction_raw": 24.72,
+      "max_transaction_raw": 103.0,
       "raw_ad": {
-        "adNo": "12957079646494265344",
-        "price": 12170.0,
+        "adNo": "13945480977860579328",
+        "price": 12134.98,
         "fiat": "SDG",
         "fiatSymbol": "ج.س.",
         "fiatScale": 2,
         "asset": "USDT",
         "assetScale": 2,
         "priceScale": 2,
-        "minTransAmount": 82.16,
-        "maxTransAmount": 205.42,
-        "tradableAmount": 127.42,
+        "minTransAmount": 24.72,
+        "maxTransAmount": 103.0,
+        "tradableAmount": 455.53,
         "payTimeLimit": 15,
         "tradeMethods": [
           "BankofKhartoum"
         ],
         "advertiser": {
-          "nickName": "Monim129",
+          "nickName": "Leader_Keto_Crypto",
+          "userType": "merchant",
+          "monthOrderCount": 1421,
+          "monthFinishRate": 0.998,
+          "positiveRate": 0.9975339,
+          "merchantGroupMember": false
+        }
+      },
+      "available_usdt": 455.53,
+      "advertiser": "Leader_Keto_Crypto",
+      "completion_rate": 0.998,
+      "monthly_orders": 1421
+    },
+    {
+      "price": 12135.0,
+      "min_transaction_raw": 4.12,
+      "max_transaction_raw": 206.01,
+      "raw_ad": {
+        "adNo": "12946549768698777600",
+        "price": 12135.0,
+        "fiat": "SDG",
+        "fiatSymbol": "ج.س.",
+        "fiatScale": 2,
+        "asset": "USDT",
+        "assetScale": 2,
+        "priceScale": 2,
+        "minTransAmount": 4.12,
+        "maxTransAmount": 206.01,
+        "tradableAmount": 448.64,
+        "payTimeLimit": 15,
+        "tradeMethods": [
+          "BankofKhartoum"
+        ],
+        "advertiser": {
+          "nickName": "Trusted_O",
           "userType": "user",
-          "monthOrderCount": 212,
-          "monthFinishRate": 0.922,
+          "monthOrderCount": 197,
+          "monthFinishRate": 0.961,
+          "positiveRate": 0.99375,
+          "merchantGroupMember": false
+        }
+      },
+      "available_usdt": 448.64,
+      "advertiser": "Trusted_O",
+      "completion_rate": 0.961,
+      "monthly_orders": 197
+    },
+    {
+      "price": 12138.0,
+      "min_transaction_raw": 41.19,
+      "max_transaction_raw": 205.96,
+      "raw_ad": {
+        "adNo": "12948037912554754048",
+        "price": 12138.0,
+        "fiat": "SDG",
+        "fiatSymbol": "ج.س.",
+        "fiatScale": 2,
+        "asset": "USDT",
+        "assetScale": 2,
+        "priceScale": 2,
+        "minTransAmount": 41.19,
+        "maxTransAmount": 205.96,
+        "tradableAmount": 350.0,
+        "payTimeLimit": 15,
+        "tradeMethods": [
+          "BankofKhartoum"
+        ],
+        "advertiser": {
+          "nickName": "AZO_CRYPTO",
+          "userType": "user",
+          "monthOrderCount": 402,
+          "monthFinishRate": 0.976,
           "positiveRate": 1.0,
           "merchantGroupMember": false
         }
       },
-      "available_usdt": 127.42,
-      "advertiser": "Monim129",
-      "completion_rate": 0.922,
-      "monthly_orders": 212
+      "available_usdt": 350.0,
+      "advertiser": "AZO_CRYPTO",
+      "completion_rate": 0.976,
+      "monthly_orders": 402
     },
     {
-      "price": 12170.99,
+      "price": 12138.0,
       "min_transaction_raw": 0.41,
-      "max_transaction_raw": 205.4,
+      "max_transaction_raw": 123.13,
       "raw_ad": {
-        "adNo": "12955993892699783168",
-        "price": 12170.99,
+        "adNo": "12957717480325349376",
+        "price": 12138.0,
         "fiat": "SDG",
         "fiatSymbol": "ج.س.",
         "fiatScale": 2,
@@ -469,8 +297,42 @@
         "assetScale": 2,
         "priceScale": 2,
         "minTransAmount": 0.41,
-        "maxTransAmount": 205.4,
-        "tradableAmount": 128.81,
+        "maxTransAmount": 123.13,
+        "tradableAmount": 121.0,
+        "payTimeLimit": 15,
+        "tradeMethods": [
+          "BankofKhartoum"
+        ],
+        "advertiser": {
+          "nickName": "User-086c3",
+          "userType": "user",
+          "monthOrderCount": 85,
+          "monthFinishRate": 0.945,
+          "positiveRate": 1.0,
+          "merchantGroupMember": false
+        }
+      },
+      "available_usdt": 121.0,
+      "advertiser": "User-086c3",
+      "completion_rate": 0.945,
+      "monthly_orders": 85
+    },
+    {
+      "price": 12139.0,
+      "min_transaction_raw": 0.41,
+      "max_transaction_raw": 205.94,
+      "raw_ad": {
+        "adNo": "12955993892699783168",
+        "price": 12139.0,
+        "fiat": "SDG",
+        "fiatSymbol": "ج.س.",
+        "fiatScale": 2,
+        "asset": "USDT",
+        "assetScale": 2,
+        "priceScale": 2,
+        "minTransAmount": 0.41,
+        "maxTransAmount": 205.94,
+        "tradableAmount": 215.7,
         "payTimeLimit": 15,
         "tradeMethods": [
           "BankofKhartoum"
@@ -478,24 +340,194 @@
         "advertiser": {
           "nickName": "fenoalonso",
           "userType": "user",
-          "monthOrderCount": 983,
+          "monthOrderCount": 1005,
           "monthFinishRate": 0.983,
           "positiveRate": 1.0,
           "merchantGroupMember": false
         }
       },
-      "available_usdt": 128.81,
+      "available_usdt": 215.7,
       "advertiser": "fenoalonso",
       "completion_rate": 0.983,
-      "monthly_orders": 983
+      "monthly_orders": 1005
     },
     {
-      "price": 12180.0,
-      "min_transaction_raw": 0.41,
-      "max_transaction_raw": 205.25,
+      "price": 12139.46,
+      "min_transaction_raw": 2.47,
+      "max_transaction_raw": 205.93,
       "raw_ad": {
-        "adNo": "12956391148507852800",
-        "price": 12180.0,
+        "adNo": "12957383688131751936",
+        "price": 12139.46,
+        "fiat": "SDG",
+        "fiatSymbol": "ج.س.",
+        "fiatScale": 2,
+        "asset": "USDT",
+        "assetScale": 2,
+        "priceScale": 2,
+        "minTransAmount": 2.47,
+        "maxTransAmount": 205.93,
+        "tradableAmount": 146.94,
+        "payTimeLimit": 15,
+        "tradeMethods": [
+          "BankofKhartoum"
+        ],
+        "advertiser": {
+          "nickName": "EN-ELHAG",
+          "userType": "user",
+          "monthOrderCount": 205,
+          "monthFinishRate": 0.981,
+          "positiveRate": 0.99497487,
+          "merchantGroupMember": false
+        }
+      },
+      "available_usdt": 146.94,
+      "advertiser": "EN-ELHAG",
+      "completion_rate": 0.981,
+      "monthly_orders": 205
+    },
+    {
+      "price": 12139.99,
+      "min_transaction_raw": 202.88,
+      "max_transaction_raw": 205.93,
+      "raw_ad": {
+        "adNo": "12957702250225733632",
+        "price": 12139.99,
+        "fiat": "SDG",
+        "fiatSymbol": "ج.س.",
+        "fiatScale": 2,
+        "asset": "USDT",
+        "assetScale": 2,
+        "priceScale": 2,
+        "minTransAmount": 202.88,
+        "maxTransAmount": 205.93,
+        "tradableAmount": 202.89,
+        "payTimeLimit": 15,
+        "tradeMethods": [
+          "BankofKhartoum"
+        ],
+        "advertiser": {
+          "nickName": "Abu_Zaher-",
+          "userType": "user",
+          "monthOrderCount": 151,
+          "monthFinishRate": 0.899,
+          "positiveRate": 1.0,
+          "merchantGroupMember": false
+        }
+      },
+      "available_usdt": 202.89,
+      "advertiser": "Abu_Zaher-",
+      "completion_rate": 0.899,
+      "monthly_orders": 151
+    },
+    {
+      "price": 12140.0,
+      "min_transaction_raw": 4.11,
+      "max_transaction_raw": 205.93,
+      "raw_ad": {
+        "adNo": "12950472822880608256",
+        "price": 12140.0,
+        "fiat": "SDG",
+        "fiatSymbol": "ج.س.",
+        "fiatScale": 2,
+        "asset": "USDT",
+        "assetScale": 2,
+        "priceScale": 2,
+        "minTransAmount": 4.11,
+        "maxTransAmount": 205.93,
+        "tradableAmount": 291.78,
+        "payTimeLimit": 15,
+        "tradeMethods": [
+          "BankofKhartoum"
+        ],
+        "advertiser": {
+          "nickName": "alghreisabi",
+          "userType": "user",
+          "monthOrderCount": 763,
+          "monthFinishRate": 0.988,
+          "positiveRate": 1.0,
+          "merchantGroupMember": false
+        }
+      },
+      "available_usdt": 291.78,
+      "advertiser": "alghreisabi",
+      "completion_rate": 0.988,
+      "monthly_orders": 763
+    },
+    {
+      "price": 12144.99,
+      "min_transaction_raw": 0.82,
+      "max_transaction_raw": 205.84,
+      "raw_ad": {
+        "adNo": "12957781311978455040",
+        "price": 12144.99,
+        "fiat": "SDG",
+        "fiatSymbol": "ج.س.",
+        "fiatScale": 2,
+        "asset": "USDT",
+        "assetScale": 2,
+        "priceScale": 2,
+        "minTransAmount": 0.82,
+        "maxTransAmount": 205.84,
+        "tradableAmount": 124.84,
+        "payTimeLimit": 15,
+        "tradeMethods": [
+          "BankofKhartoum"
+        ],
+        "advertiser": {
+          "nickName": "SHAMSA_SHAMSA",
+          "userType": "user",
+          "monthOrderCount": 486,
+          "monthFinishRate": 0.963,
+          "positiveRate": 1.0,
+          "merchantGroupMember": false
+        }
+      },
+      "available_usdt": 124.84,
+      "advertiser": "SHAMSA_SHAMSA",
+      "completion_rate": 0.963,
+      "monthly_orders": 486
+    },
+    {
+      "price": 12146.0,
+      "min_transaction_raw": 16.46,
+      "max_transaction_raw": 65.86,
+      "raw_ad": {
+        "adNo": "12957385427050397696",
+        "price": 12146.0,
+        "fiat": "SDG",
+        "fiatSymbol": "ج.س.",
+        "fiatScale": 2,
+        "asset": "USDT",
+        "assetScale": 2,
+        "priceScale": 2,
+        "minTransAmount": 16.46,
+        "maxTransAmount": 65.86,
+        "tradableAmount": 207.95,
+        "payTimeLimit": 15,
+        "tradeMethods": [
+          "BankofKhartoum"
+        ],
+        "advertiser": {
+          "nickName": "Rania76",
+          "userType": "user",
+          "monthOrderCount": 1210,
+          "monthFinishRate": 1.0,
+          "positiveRate": 1.0,
+          "merchantGroupMember": false
+        }
+      },
+      "available_usdt": 207.95,
+      "advertiser": "Rania76",
+      "completion_rate": 1.0,
+      "monthly_orders": 1210
+    },
+    {
+      "price": 12147.0,
+      "min_transaction_raw": 0.41,
+      "max_transaction_raw": 103.72,
+      "raw_ad": {
+        "adNo": "12957176485053120512",
+        "price": 12147.0,
         "fiat": "SDG",
         "fiatSymbol": "ج.س.",
         "fiatScale": 2,
@@ -503,110 +535,44 @@
         "assetScale": 2,
         "priceScale": 2,
         "minTransAmount": 0.41,
-        "maxTransAmount": 205.25,
-        "tradableAmount": 180.88,
+        "maxTransAmount": 103.72,
+        "tradableAmount": 104.66,
         "payTimeLimit": 15,
         "tradeMethods": [
-          "BankofKhartoum"
+          "BankofKhartoum",
+          "OmdurmanNationalBank",
+          "fawry"
         ],
         "advertiser": {
-          "nickName": "Abdulrahma40",
+          "nickName": "Abu_Awwab",
           "userType": "user",
-          "monthOrderCount": 70,
-          "monthFinishRate": 0.973,
+          "monthOrderCount": 154,
+          "monthFinishRate": 0.988,
           "positiveRate": 1.0,
           "merchantGroupMember": false
         }
       },
-      "available_usdt": 180.88,
-      "advertiser": "Abdulrahma40",
-      "completion_rate": 0.973,
-      "monthly_orders": 70
+      "available_usdt": 104.66,
+      "advertiser": "Abu_Awwab",
+      "completion_rate": 0.988,
+      "monthly_orders": 154
     },
     {
-      "price": 12183.27,
-      "min_transaction_raw": 8.2,
-      "max_transaction_raw": 41.03,
-      "raw_ad": {
-        "adNo": "12956251547482861568",
-        "price": 12183.27,
-        "fiat": "SDG",
-        "fiatSymbol": "ج.س.",
-        "fiatScale": 2,
-        "asset": "USDT",
-        "assetScale": 2,
-        "priceScale": 2,
-        "minTransAmount": 8.2,
-        "maxTransAmount": 41.03,
-        "tradableAmount": 94.44,
-        "payTimeLimit": 15,
-        "tradeMethods": [
-          "BankofKhartoum"
-        ],
-        "advertiser": {
-          "nickName": "almoaiz41",
-          "userType": "user",
-          "monthOrderCount": 61,
-          "monthFinishRate": 1.0,
-          "positiveRate": 1.0,
-          "merchantGroupMember": false
-        }
-      },
-      "available_usdt": 94.44,
-      "advertiser": "almoaiz41",
-      "completion_rate": 1.0,
-      "monthly_orders": 61
-    },
-    {
-      "price": 12189.57,
-      "min_transaction_raw": 41.01,
-      "max_transaction_raw": 205.09,
-      "raw_ad": {
-        "adNo": "12956851958334111744",
-        "price": 12189.57,
-        "fiat": "SDG",
-        "fiatSymbol": "ج.س.",
-        "fiatScale": 2,
-        "asset": "USDT",
-        "assetScale": 2,
-        "priceScale": 2,
-        "minTransAmount": 41.01,
-        "maxTransAmount": 205.09,
-        "tradableAmount": 383.5,
-        "payTimeLimit": 15,
-        "tradeMethods": [
-          "BankofKhartoum"
-        ],
-        "advertiser": {
-          "nickName": "Aylin_The_Queen",
-          "userType": "user",
-          "monthOrderCount": 433,
-          "monthFinishRate": 0.989,
-          "positiveRate": 0.98671096,
-          "merchantGroupMember": false
-        }
-      },
-      "available_usdt": 383.5,
-      "advertiser": "Aylin_The_Queen",
-      "completion_rate": 0.989,
-      "monthly_orders": 433
-    },
-    {
-      "price": 12190.0,
-      "min_transaction_raw": 82.03,
-      "max_transaction_raw": 205.08,
+      "price": 12150.0,
+      "min_transaction_raw": 82.3,
+      "max_transaction_raw": 205.76,
       "raw_ad": {
         "adNo": "12956384482221694976",
-        "price": 12190.0,
+        "price": 12150.0,
         "fiat": "SDG",
         "fiatSymbol": "ج.س.",
         "fiatScale": 2,
         "asset": "USDT",
         "assetScale": 2,
         "priceScale": 2,
-        "minTransAmount": 82.03,
-        "maxTransAmount": 205.08,
-        "tradableAmount": 6000.0,
+        "minTransAmount": 82.3,
+        "maxTransAmount": 205.76,
+        "tradableAmount": 5300.42,
         "payTimeLimit": 15,
         "tradeMethods": [
           "BankofKhartoum"
@@ -614,84 +580,118 @@
         "advertiser": {
           "nickName": "NADAHAROOUN",
           "userType": "user",
-          "monthOrderCount": 509,
+          "monthOrderCount": 513,
           "monthFinishRate": 0.961,
           "positiveRate": 1.0,
           "merchantGroupMember": false
         }
       },
-      "available_usdt": 6000.0,
+      "available_usdt": 5300.42,
       "advertiser": "NADAHAROOUN",
       "completion_rate": 0.961,
-      "monthly_orders": 509
+      "monthly_orders": 513
     },
     {
-      "price": 12199.99,
-      "min_transaction_raw": 204.91,
-      "max_transaction_raw": 204.91,
+      "price": 12158.0,
+      "min_transaction_raw": 0.41,
+      "max_transaction_raw": 16.45,
       "raw_ad": {
-        "adNo": "12955988884140224512",
-        "price": 12199.99,
+        "adNo": "12956849400267309056",
+        "price": 12158.0,
         "fiat": "SDG",
         "fiatSymbol": "ج.س.",
         "fiatScale": 2,
         "asset": "USDT",
         "assetScale": 2,
         "priceScale": 2,
-        "minTransAmount": 204.91,
-        "maxTransAmount": 204.91,
-        "tradableAmount": 588.97,
+        "minTransAmount": 0.41,
+        "maxTransAmount": 16.45,
+        "tradableAmount": 100.0,
         "payTimeLimit": 15,
         "tradeMethods": [
           "BankofKhartoum"
         ],
         "advertiser": {
-          "nickName": "MAGAK1",
+          "nickName": "k-i-n-g---Muslim---",
           "userType": "user",
-          "monthOrderCount": 122,
-          "monthFinishRate": 0.86,
-          "positiveRate": 0.99754901,
-          "merchantGroupMember": false
-        }
-      },
-      "available_usdt": 588.97,
-      "advertiser": "MAGAK1",
-      "completion_rate": 0.86,
-      "monthly_orders": 122
-    },
-    {
-      "price": 12200.0,
-      "min_transaction_raw": 52.45,
-      "max_transaction_raw": 204.91,
-      "raw_ad": {
-        "adNo": "12957101426246529024",
-        "price": 12200.0,
-        "fiat": "SDG",
-        "fiatSymbol": "ج.س.",
-        "fiatScale": 2,
-        "asset": "USDT",
-        "assetScale": 2,
-        "priceScale": 2,
-        "minTransAmount": 52.45,
-        "maxTransAmount": 204.91,
-        "tradableAmount": 1177.0,
-        "payTimeLimit": 15,
-        "tradeMethods": [
-          "BankofKhartoum"
-        ],
-        "advertiser": {
-          "nickName": "User-b99277xe",
-          "userType": "user",
-          "monthOrderCount": 74,
-          "monthFinishRate": 0.892,
+          "monthOrderCount": 105,
+          "monthFinishRate": 0.938,
           "positiveRate": 1.0,
           "merchantGroupMember": false
         }
       },
-      "available_usdt": 1177.0,
-      "advertiser": "User-b99277xe",
-      "completion_rate": 0.892,
-      "monthly_orders": 74
+      "available_usdt": 100.0,
+      "advertiser": "k-i-n-g---Muslim---",
+      "completion_rate": 0.938,
+      "monthly_orders": 105
+    },
+    {
+      "price": 12170.0,
+      "min_transaction_raw": 0.41,
+      "max_transaction_raw": 205.42,
+      "raw_ad": {
+        "adNo": "12956980676312506368",
+        "price": 12170.0,
+        "fiat": "SDG",
+        "fiatSymbol": "ج.س.",
+        "fiatScale": 2,
+        "asset": "USDT",
+        "assetScale": 2,
+        "priceScale": 2,
+        "minTransAmount": 0.41,
+        "maxTransAmount": 205.42,
+        "tradableAmount": 184.53,
+        "payTimeLimit": 15,
+        "tradeMethods": [
+          "BankofKhartoum"
+        ],
+        "advertiser": {
+          "nickName": "MEGA_16",
+          "userType": "user",
+          "monthOrderCount": 1332,
+          "monthFinishRate": 0.988,
+          "positiveRate": 1.0,
+          "merchantGroupMember": false
+        }
+      },
+      "available_usdt": 184.53,
+      "advertiser": "MEGA_16",
+      "completion_rate": 0.988,
+      "monthly_orders": 1332
+    },
+    {
+      "price": 12180.0,
+      "min_transaction_raw": 4.1,
+      "max_transaction_raw": 205.25,
+      "raw_ad": {
+        "adNo": "12957797533493854208",
+        "price": 12180.0,
+        "fiat": "SDG",
+        "fiatSymbol": "ج.س.",
+        "fiatScale": 2,
+        "asset": "USDT",
+        "assetScale": 2,
+        "priceScale": 2,
+        "minTransAmount": 4.1,
+        "maxTransAmount": 205.25,
+        "tradableAmount": 638.0,
+        "payTimeLimit": 15,
+        "tradeMethods": [
+          "BankofKhartoum"
+        ],
+        "advertiser": {
+          "nickName": "7d_249",
+          "userType": "user",
+          "monthOrderCount": 692,
+          "monthFinishRate": 0.918,
+          "positiveRate": 1.0,
+          "merchantGroupMember": false
+        }
+      },
+      "available_usdt": 638.0,
+      "advertiser": "7d_249",
+      "completion_rate": 0.918,
+      "monthly_orders": 692
     }
   ]
 }
